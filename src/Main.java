@@ -7,7 +7,8 @@ public class Main {
 		
 		System.out.println("======== BIT504 - Assessment 2, Task 9 ========");
 		System.out.println("Demonstrating source and version control.");
-		System.out.println("Version 1.0");
+		System.out.println("Version 2.0");
+		System.out.println("Author: O.A. Arapai");
 
 	}
 
